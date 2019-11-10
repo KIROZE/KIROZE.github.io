@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://LINLIN.github.io</id>
+    <id>https://KIROZE.github.io</id>
     <title>KIROZE</title>
-    <updated>2019-11-10T05:14:46.546Z</updated>
+    <updated>2019-11-10T05:30:20.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://LINLIN.github.io"/>
-    <link rel="self" href="https://LINLIN.github.io/atom.xml"/>
+    <link rel="alternate" href="https://KIROZE.github.io"/>
+    <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
     <subtitle>欢迎访问本站，通过本站你可以了解我的作品及其相关信息</subtitle>
-    <logo>https://LINLIN.github.io/images/avatar.png</logo>
-    <icon>https://LINLIN.github.io/favicon.ico</icon>
+    <logo>https://KIROZE.github.io/images/avatar.png</logo>
+    <icon>https://KIROZE.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, KIROZE</rights>
     <entry>
         <title type="html"><![CDATA[关于DEMO版本的计划]]></title>
-        <id>https://LINLIN.github.io/post/guan-yu-demo-ban-ben-de-ji-hua</id>
-        <link href="https://LINLIN.github.io/post/guan-yu-demo-ban-ben-de-ji-hua">
+        <id>https://KIROZE.github.io/post/guan-yu-demo-ban-ben-de-ji-hua</id>
+        <link href="https://KIROZE.github.io/post/guan-yu-demo-ban-ben-de-ji-hua">
         </link>
         <updated>2019-11-10T05:11:46.000Z</updated>
         <content type="html"><![CDATA[<p>。。。。。</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[cosmos and their creation]]></title>
-        <id>https://LINLIN.github.io/post/cosmos-and-their-creation</id>
-        <link href="https://LINLIN.github.io/post/cosmos-and-their-creation">
+        <id>https://KIROZE.github.io/post/cosmos-and-their-creation</id>
+        <link href="https://KIROZE.github.io/post/cosmos-and-their-creation">
         </link>
         <updated>2019-11-10T05:10:45.000Z</updated>
         <content type="html"><![CDATA[<p>额</p>
@@ -30,11 +30,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[今天]]></title>
-        <id>https://LINLIN.github.io/post/jin-tian</id>
-        <link href="https://LINLIN.github.io/post/jin-tian">
+        <id>https://KIROZE.github.io/post/jin-tian</id>
+        <link href="https://KIROZE.github.io/post/jin-tian">
         </link>
         <updated>2019-11-10T04:07:52.000Z</updated>
-        <content type="html"><![CDATA[<p>今天更新了一些东西<img src="https://LINLIN.github.io/post-images/1573358898008.jpg" alt=""></p>
+        <content type="html"><![CDATA[<p>今天更新了一些东西<img src="https://KIROZE.github.io/post-images/1573358898008.jpg" alt=""></p>
 ]]></content>
     </entry>
 </feed>
