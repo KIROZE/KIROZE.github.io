@@ -1,74 +1,105 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>Hello Gridea | KIROZE</title>
-<meta name="description" content="欢迎访问本站，通过本站你可以了解我的作品及其相关信息" />
-<link rel="shortcut icon" href="http://LINLIN.github.io/favicon.ico?v=1573357709591">
-<link href="https://cdn.remixicon.com/releases/v1.3.1/remixicon.css" rel="stylesheet">
+<meta name="description" content="欢迎访问本站，通过本站你可以了解我的作品及其相关信息">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="http://LINLIN.github.io/favicon.ico?v=1573357774756">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
-
 <link rel="stylesheet" href="http://LINLIN.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Hello Gridea | KIROZE - Atom Feed" href="http://LINLIN.github.io/atom.xml">
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
 
   </head>
   <body>
-    <div class="site-nav has-cover">
-      <div class="head">
-  <div class="inner">
-    <a class="site-name" href="http://LINLIN.github.io">
-        <span>KIROZE</span>
-    </a>
-    <label class="burger" for="burger"></label>
-    <input id="burger" type="checkbox">
-    <button class="burger">
-      <div>
-        <span></span>
-        <span></span>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="http://LINLIN.github.io">
+        <img src="http://LINLIN.github.io/images/avatar.png?v=1573357774756" class="site-logo">
+        <h1 class="site-title">KIROZE</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
       </div>
-    </button>
-    <nav class="info_nav">
+    </div>
+    <div>
       
         
-          <a href="/">首页</a>
-        
-      
-        
-          <a href="/archives">归档</a>
-        
-      
-        
-          <a href="/tags">标签</a>
+          <a href="/" class="site-nav">
+            首页
+          </a>
         
       
         
-          <a href="/post/about">关于</a>
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
         
       
-    </nav>
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      欢迎访问本站，通过本站你可以了解我的作品及其相关信息
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="http://LINLIN.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
-    </div>
-    <article role="main" class="hentry has-cover">
-      
-        <div class="entry-cover js-cover" data-src="http://LINLIN.github.io/post-images/hello-gridea.png" data-width="900" data-height="423" style="background-image:url(http://LINLIN.github.io/post-images/hello-gridea.png); height: 80vw;">
-          <h1 class="post-title">Hello Gridea</h1>
-        </div>
-      
-      <h1 class="entry-title" itemprop="headline">Hello Gridea</h1>
-      <div class="entry-meta">
-        <time class="updated" datetime="2018-12-12 00:00:00">2018-12-12</time>
-        <span class="author vcard">
-          2 min read
-        </span>
-      </div>
-      <div class="post-content yue">
-        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">Hello Gridea</h2>
+            <div class="post-date">2018-12-12</div>
+            
+              <div class="feature-container" style="background-image: url('http://LINLIN.github.io/post-images/hello-gridea.png')">
+              </div>
+            
+            <div class="post-content">
+              <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
@@ -90,61 +121,45 @@
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
 
-      </div>
-      <div class="entry-block">
-        <div class="entry-tags">
-          
-            <a href="http://LINLIN.github.io/tag/1BsM7AI9E">
-              Gridea
-            </a>
-          
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="http://LINLIN.github.io/tag/1BsM7AI9E" class="tag">
+                    Gridea
+                  </a>
+                
+              </div>
+            
+            
+
+            
+
+          </div>
+
         </div>
       </div>
-    </article>
-    
-    
-
-    
-
-    <footer class="footer">
-  <div class="main">
-    <a href="http://LINLIN.github.io">
-      <img class="avatar" src="http://LINLIN.github.io/images/avatar.png?v=1573357709591" alt="KIROZE">
-    </a>
-    <div class="footer__social">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
     </div>
-    <p class="footer__sosumi">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-    </p>
-    <a class="footer-rss" href="http://LINLIN.github.io/atom.xml">RSS</a>
-  </div>
-</footer>
 
-<script src="http://LINLIN.github.io/media/prism.js"></script>
-<script>
-  Prism.highlightAll()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
 </script>
+
+
+
 
   </body>
 </html>
