@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE</title>
-    <updated>2019-11-10T06:16:31.909Z</updated>
+    <updated>2019-11-10T06:22:57.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -16,7 +16,9 @@
         <link href="https://KIROZE.github.io/post/guan-yu-demo-ban-ben-de-ji-hua">
         </link>
         <updated>2019-11-10T05:11:46.000Z</updated>
-        <content type="html"><![CDATA[<p>。。。。。</p>
+        <content type="html"><![CDATA[<p>游戏制作进度非常非常慢，</p>
+<p>更新基本随缘。</p>
+<p>DEMO？ 没有计划。</p>
 ]]></content>
     </entry>
     <entry>
@@ -25,7 +27,7 @@
         <link href="https://KIROZE.github.io/post/cosmos-and-their-creation">
         </link>
         <updated>2019-11-10T05:10:45.000Z</updated>
-        <content type="html"><![CDATA[<p>额</p>
+        <content type="html"><![CDATA[<p>昨天我中午吃的也是大米盖饭</p>
 ]]></content>
     </entry>
     <entry>
@@ -34,7 +36,7 @@
         <link href="https://KIROZE.github.io/post/jin-tian">
         </link>
         <updated>2019-11-10T04:07:52.000Z</updated>
-        <content type="html"><![CDATA[<p>今天更新了一些东西<img src="https://KIROZE.github.io/post-images/1573358898008.jpg" alt=""></p>
+        <content type="html"><![CDATA[<p>今天中午吃的是大米盖饭，没有图。</p>
 ]]></content>
     </entry>
 </feed>
