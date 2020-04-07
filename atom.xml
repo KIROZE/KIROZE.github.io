@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://KIROZE.github.io</id>
+    <id>http://localhost:4000</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-04-07T12:22:04.159Z</updated>
+    <updated>2020-04-07T14:12:11.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://KIROZE.github.io"/>
-    <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>欢迎访问本站，通过本站你可以了解我的动态与作品及其相关信息</subtitle>
-    <logo>https://KIROZE.github.io/images/avatar.png</logo>
-    <icon>https://KIROZE.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2020, KIROZE STUDIO</rights>
     <entry>
+        <title type="html"><![CDATA[托纳提乌_Tonatiuh]]></title>
+        <id>http://localhost:4000/post/tuo-na-ti-wu-_tonatiuh</id>
+        <link href="http://localhost:4000/post/tuo-na-ti-wu-_tonatiuh">
+        </link>
+        <updated>2020-04-07T13:12:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>第五个太阳纪的统治者</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>第五个太阳纪的统治者</p>
+<!-- more -->
+<p>原型是玛雅/阿兹特克神话中的人物。<br>
+<img src="http://localhost:4000/post-images/1586265408164.png" alt="" loading="lazy"></p>
+<p>我的Pixiv id：2365672486</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[开发日记]]></title>
-        <id>https://KIROZE.github.io/post/xu-ni-di-yu-_virtual-whispers</id>
-        <link href="https://KIROZE.github.io/post/xu-ni-di-yu-_virtual-whispers">
+        <id>http://localhost:4000/post/xu-ni-di-yu-_virtual-whispers</id>
+        <link href="http://localhost:4000/post/xu-ni-di-yu-_virtual-whispers">
         </link>
         <updated>2020-02-26T02:55:26.000Z</updated>
         <summary type="html"><![CDATA[<p>说说一些有关于填坑的事。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>说说一些有关于填坑的事。</p>
 <!-- more -->
-<pre><code>                                  Preface
+<pre><code>                                                             Preface
 </code></pre>
 <p>之前也写过一篇关于这个游戏开发的，非常短的文章；不过让我给删了。那篇文章的主要内容大概也就是粗略描述了一下游戏正在制作中的状况。</p>
 <p>不过也仅仅限于描述状况，其中诸多针对游戏内容创作与修改的情境，我都没有做出相关的记录。</p>
@@ -47,12 +62,16 @@
 并非一切皆有意义，但也并非一切皆无意义；<br>
 细琐的片段耐人寻味，即便证实了辛酸与遗憾，挣扎与苦境；<br>
 但它们也需要拥有曾经存在的承认与证明，毕竟它们也曾诞生于世间。</p>
+<pre><code>                                                          1
+</code></pre>
+<p>这是一个简单的被动技能框架</p>
+<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1586268549194.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[短暂四天的设计素描学习成果]]></title>
-        <id>https://KIROZE.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo</id>
-        <link href="https://KIROZE.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo">
+        <id>http://localhost:4000/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo</id>
+        <link href="http://localhost:4000/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo">
         </link>
         <updated>2019-12-14T14:04:44.000Z</updated>
         <summary type="html"><![CDATA[<p>拿几张作品简短纪念</p>
@@ -63,37 +82,37 @@
 <p>Cyber Kronos</p>
 </blockquote>
 <p>“人类文明发展演进的过程，是机械与科技进步的过程；也是价值观变化与革新的过程。旧社会同新社会的文明冲突、交融。诸神的黑白霓虹就此展开。”</p>
-<figure data-type="image" tabindex="1"><img src="https://KIROZE.github.io/post-images/1577892943617.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1577892943617.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>Goetia-幻痛</p>
 </blockquote>
 <p>“Goetia是《旧约圣经》中以色列国王所罗门召唤七十二魔柱治理国家的秘典，拥有无尽的知识和力量，然而即便如此仍有无法触及之地；驾驭云雾与火焰的神诉说着极东的异域魔力...“</p>
-<figure data-type="image" tabindex="2"><img src="https://KIROZE.github.io/post-images/1577893004598.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://localhost:4000/post-images/1577893004598.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>序列与偏执狂</p>
 </blockquote>
 <p>“人的手可以创造，把握诸多事物。但是唯独不能把握“命运”。<br>
 “命运”的轮廓时而完整不动如山，时而却又残缺支离破碎。它不断地变动与穿梭在浩瀚的宇宙与星海，<br>
 人为了把握与创造“命运”，不得不化身偏执的狂人。”</p>
-<figure data-type="image" tabindex="3"><img src="https://KIROZE.github.io/post-images/1577893011365.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://localhost:4000/post-images/1577893011365.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>MASTER</p>
 </blockquote>
 <p>“伴随现代电子科技的发展，人为制作出的器乐音色数目大大扩展，在此基础之上对它进行古典交响乐的排列与编制——它可以表达的东西也更加多样了。”</p>
-<figure data-type="image" tabindex="4"><img src="https://KIROZE.github.io/post-images/1577893017631.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://localhost:4000/post-images/1577893017631.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>穿心攻击</p>
 </blockquote>
 <p>“人的心灵力量很脆弱。<br>
 当外界信息如同雷电般迅捷闪入脑海，<br>
 它只能将其加工成”碎片“般零散的存在。”</p>
-<figure data-type="image" tabindex="5"><img src="https://KIROZE.github.io/post-images/1577893028555.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="http://localhost:4000/post-images/1577893028555.jpg" alt="" loading="lazy"></figure>
 <blockquote>
 <p>星辰大海</p>
 </blockquote>
 <p>“流量时代，人民大众需要精神按摩器。<br>
 需要用它来呐喊；对谁喊，无所谓，不重要。”</p>
-<figure data-type="image" tabindex="6"><img src="https://KIROZE.github.io/post-images/1577893052757.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="http://localhost:4000/post-images/1577893052757.jpg" alt="" loading="lazy"></figure>
 <p>####################################</p>
 <p><s>#作品的主题与内容不仅无趣、中二，甚至还游荡着肤浅的气息。</s></p>
 <p>#这次经历仍值得拿出来纪念一番的吧。</p>
@@ -101,8 +120,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[做了一张图]]></title>
-        <id>https://KIROZE.github.io/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi</id>
-        <link href="https://KIROZE.github.io/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi">
+        <id>http://localhost:4000/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi</id>
+        <link href="http://localhost:4000/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi">
         </link>
         <updated>2019-11-24T15:28:18.000Z</updated>
         <summary type="html"><![CDATA[<p>附上两句和图没什么关系的文字</p>
@@ -115,7 +134,7 @@
 <blockquote>
 <p>文案2： God is in my eyes,No more irreverence in my heart,Let my eyes be blinded by my tears,If one day I will believe such a lie. 我的眼睛里供着神，心中再不能存一丝不敬，让我的眼睛被泪水蒙蔽，如果我有一天会相信这样的假话。 ——莎士比亚</p>
 </blockquote>
-<figure data-type="image" tabindex="1"><img src="https://KIROZE.github.io/post-images/1582686776691.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1582686776691.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
