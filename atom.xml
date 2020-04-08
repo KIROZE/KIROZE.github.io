@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-04-08T08:34:14.161Z</updated>
+    <updated>2020-04-08T08:47:24.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -11,35 +11,37 @@
     <icon>https://KIROZE.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, KIROZE STUDIO</rights>
     <entry>
-        <title type="html"><![CDATA[托纳提乌之影_Tonatiuh's shadow （Pixiv id：2365672486）]]></title>
+        <title type="html"><![CDATA[托纳提乌之影_Tonatiuh's shadow ]]></title>
         <id>https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh</id>
         <link href="https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh">
         </link>
         <updated>2020-04-08T13:12:46.000Z</updated>
+        <content type="html"><![CDATA[<p>（Pixiv id：2365672486）</p>
+]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual Whisper.S角色在战斗环境中的特性]]></title>
+        <title type="html"><![CDATA[Virtual Whisper.S的特性设定]]></title>
         <id>https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding</id>
         <link href="https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding">
         </link>
         <updated>2020-04-08T04:39:09.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big Boss 这只血鹦鹉鱼的名字， 取自于《合金装备》中的Snake]]></title>
+        <title type="html"><![CDATA[这只血鹦鹉的名字是Big Boss ]]></title>
         <id>https://KIROZE.github.io/post/big-boss</id>
         <link href="https://KIROZE.github.io/post/big-boss">
         </link>
         <updated>2020-04-08T04:11:19.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学校图书馆里发现的宝贝 （拍摄于2019年10月）]]></title>
+        <title type="html"><![CDATA[去年学校图书馆里发现的宝贝]]></title>
         <id>https://KIROZE.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei</id>
         <link href="https://KIROZE.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei">
         </link>
         <updated>2020-04-08T04:06:41.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[试做型标题界面]]></title>
+        <title type="html"><![CDATA[试做版游戏标题界面]]></title>
         <id>https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian</id>
         <link href="https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian">
         </link>
