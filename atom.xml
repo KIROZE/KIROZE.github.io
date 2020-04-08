@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-04-08T08:53:27.127Z</updated>
+    <updated>2020-04-08T13:24:47.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh">
         </link>
         <updated>2020-04-08T13:12:46.000Z</updated>
-        <content type="html"><![CDATA[<p>（Pixiv id：2365672486）</p>
+        <content type="html"><![CDATA[<p>（我的Pixiv id：2365672486）</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual Whisper.S的特性设定]]></title>
+        <title type="html"><![CDATA[特性的设定完成了]]></title>
         <id>https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding</id>
         <link href="https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding">
         </link>
@@ -32,6 +32,8 @@
         <link href="https://KIROZE.github.io/post/big-boss">
         </link>
         <updated>2020-04-08T04:11:19.000Z</updated>
+        <content type="html"><![CDATA[<p>和《合金装备》的Snake是一个名字呢...</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[去年学校图书馆里发现的宝贝]]></title>
@@ -41,14 +43,14 @@
         <updated>2020-04-08T04:06:41.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[试做版游戏标题界面]]></title>
+        <title type="html"><![CDATA[试做型游戏标题界面第四版]]></title>
         <id>https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian</id>
         <link href="https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian">
         </link>
         <updated>2020-04-08T03:59:30.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一张关于游戏内地图的构想]]></title>
+        <title type="html"><![CDATA[一张关于游戏内地图环境的构想]]></title>
         <id>https://KIROZE.github.io/post/lu-xin-yi-shi</id>
         <link href="https://KIROZE.github.io/post/lu-xin-yi-shi">
         </link>
