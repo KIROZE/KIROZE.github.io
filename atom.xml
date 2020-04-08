@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-04-08T08:30:19.225Z</updated>
+    <updated>2020-04-08T08:34:14.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -11,41 +11,32 @@
     <icon>https://KIROZE.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, KIROZE STUDIO</rights>
     <entry>
-        <title type="html"><![CDATA[托纳提乌_Tonatiuh]]></title>
+        <title type="html"><![CDATA[托纳提乌之影_Tonatiuh's shadow （Pixiv id：2365672486）]]></title>
         <id>https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh</id>
         <link href="https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh">
         </link>
         <updated>2020-04-08T13:12:46.000Z</updated>
-        <content type="html"><![CDATA[<p>我的Pixiv id：2365672486</p>
-]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于被动技能的设定]]></title>
+        <title type="html"><![CDATA[Virtual Whisper.S角色在战斗环境中的特性]]></title>
         <id>https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding</id>
         <link href="https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding">
         </link>
         <updated>2020-04-08T04:39:09.000Z</updated>
-        <content type="html"><![CDATA[<p>Virtual Whisper.S角色在战斗环境中的特性</p>
-]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big Boss]]></title>
+        <title type="html"><![CDATA[Big Boss 这只血鹦鹉鱼的名字， 取自于《合金装备》中的Snake]]></title>
         <id>https://KIROZE.github.io/post/big-boss</id>
         <link href="https://KIROZE.github.io/post/big-boss">
         </link>
         <updated>2020-04-08T04:11:19.000Z</updated>
-        <content type="html"><![CDATA[<p>这只血鹦鹉鱼名字是BIG BOSS<br>
-取自于《合金装备》中的Snake</p>
-]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学校图书馆里发现的宝贝]]></title>
+        <title type="html"><![CDATA[学校图书馆里发现的宝贝 （拍摄于2019年10月）]]></title>
         <id>https://KIROZE.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei</id>
         <link href="https://KIROZE.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei">
         </link>
         <updated>2020-04-08T04:06:41.000Z</updated>
-        <content type="html"><![CDATA[<p>拍摄于2019年10月</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[试做型标题界面]]></title>
@@ -53,28 +44,20 @@
         <link href="https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian">
         </link>
         <updated>2020-04-08T03:59:30.000Z</updated>
-        <content type="html"><![CDATA[<p>以灰白色调为主</p>
-]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[炉心意识]]></title>
+        <title type="html"><![CDATA[一张关于游戏内地图的构想]]></title>
         <id>https://KIROZE.github.io/post/lu-xin-yi-shi</id>
         <link href="https://KIROZE.github.io/post/lu-xin-yi-shi">
         </link>
         <updated>2020-04-08T03:57:00.000Z</updated>
-        <content type="html"><![CDATA[<p>简单的构想<br>
-关于游戏中的一张地图</p>
-]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jormungand]]></title>
+        <title type="html"><![CDATA[Jormungand ]]></title>
         <id>https://KIROZE.github.io/post/xu-ni-di-yu-_virtual-whispers</id>
         <link href="https://KIROZE.github.io/post/xu-ni-di-yu-_virtual-whispers">
         </link>
         <updated>2020-02-26T02:55:26.000Z</updated>
-        <content type="html"><![CDATA[<p>这是一张关于游戏的<br>
-没有什么构思的概念图</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[四天设计素描学习的结课画册]]></title>
