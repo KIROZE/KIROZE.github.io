@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-04-28T11:53:32.561Z</updated>
+    <updated>2020-04-28T12:44:33.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -100,6 +100,18 @@
         <link href="https://KIROZE.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei/">
         </link>
         <updated>2020-04-08T04:06:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>钢之炼金术师</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>钢之炼金术师</p>
+ <!-- more -->
+<blockquote>
+<p>故事发生在一个炼金术相当发达的世界，在这个世界的“炼金术”，是以理解物质的内在的法则：理解，分解，再构造成立，进行炼金术必须按照“等价交换”法则：为了获得某种东西，需要以同等的代价交换，代价不够的话便需要以自己的任何部份（身体的一部分、记忆等等）被作为代价的填补而被拿走。<br>
+爱德华·艾尔利克和他弟弟阿尔冯斯·艾尔利克十分思念在他们还小的时候亡故的母亲，为了再次见到母亲，进行了炼金术中最大的禁忌——人体炼成。可是因为炼成时的反噬，阿尔则失去了全身，爱德失去了左脚，为了换回弟弟，爱德华牺牲自己的右手作为代价将弟弟的灵魂炼成，并将弟弟阿尔冯斯的灵魂固定在一副铠甲上。从此爱德华和阿尔冯斯为了取回他们所失去的一切，开始踏上了找回自己身体的旅程。<br>
+（失足哥哥与失身弟弟）</p>
+</blockquote>
+<p>等价交换是炼金术的原则，不过其实也是人生的准则。<br>
+得与失对立统一，牺牲于救赎紧密维系。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[试做型游戏标题界面第四版]]></title>
@@ -107,13 +119,18 @@
         <link href="https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian/">
         </link>
         <updated>2020-04-08T03:59:30.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一张关于游戏内地图环境的构想]]></title>
-        <id>https://KIROZE.github.io/post/lu-xin-yi-shi/</id>
-        <link href="https://KIROZE.github.io/post/lu-xin-yi-shi/">
-        </link>
-        <updated>2020-04-08T03:57:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>咸鱼游戏开发中</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>咸鱼游戏开发中</p>
+ <!-- more -->
+<p>为什么会做到第四版呢？<br>
+———— 技术力限制，却又想法多变。</p>
+<p>改，简直就是改不停。<br>
+设定也是，脚本也是，画面也是...</p>
+<p>慢慢修改与成长固然是好的，<br>
+但是肝的成本有些小高...而且倘若不投入精力好好去杠一些东西，<br>
+我是真的会后悔的。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jormungand ]]></title>
@@ -121,6 +138,12 @@
         <link href="https://KIROZE.github.io/post/xu-ni-di-yu-_virtual-whispers/">
         </link>
         <updated>2020-02-26T02:55:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>矢量</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>矢量</p>
+<!-- more -->
+<p>“Jormungand”，中文译名即“加梦耶德”；是一条在北欧神话之中出现过的大蛇。它的身躯非常庞大，大到足以到盘旋整个世界；因此，它也被称作为“世界大蛇”——它给了我不少启发，这一概念多少被转移在了游戏之中，化身为相似于“Jormungand”的事物或概念。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[四天设计素描学习的结课画册]]></title>
@@ -128,14 +151,48 @@
         <link href="https://KIROZE.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo/">
         </link>
         <updated>2019-12-14T14:04:44.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一张模模糊糊的海报]]></title>
-        <id>https://KIROZE.github.io/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi/</id>
-        <link href="https://KIROZE.github.io/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi/">
-        </link>
-        <updated>2019-11-24T15:28:18.000Z</updated>
-        <content type="html"><![CDATA[<p>老霓霓虹虹了</p>
+        <summary type="html"><![CDATA[<p>拿几张作品简短纪念</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>拿几张作品简短纪念</p>
+<!-- more -->
+<blockquote>
+<p>Cyber Kronos</p>
+</blockquote>
+<p>“人类文明发展演进的过程，是机械与科技进步的过程；也是价值观变化与革新的过程。旧社会同新社会的文明冲突、交融。诸神的黑白霓虹就此展开。”</p>
+<figure data-type="image" tabindex="1"><img src="https://KIROZE.github.io/post-images/1577892943617.jpg" alt="" loading="lazy"></figure>
+<blockquote>
+<p>Goetia-幻痛</p>
+</blockquote>
+<p>“Goetia是《旧约圣经》中以色列国王所罗门召唤七十二魔柱治理国家的秘典，拥有无尽的知识和力量，然而即便如此仍有无法触及之地；驾驭云雾与火焰的神诉说着极东的异域魔力...“</p>
+<figure data-type="image" tabindex="2"><img src="https://KIROZE.github.io/post-images/1577893004598.jpg" alt="" loading="lazy"></figure>
+<blockquote>
+<p>序列与偏执狂</p>
+</blockquote>
+<p>“人的手可以创造，把握诸多事物。但是唯独不能把握“命运”。<br>
+“命运”的轮廓时而完整不动如山，时而却又残缺支离破碎。它不断地变动与穿梭在浩瀚的宇宙与星海，<br>
+人为了把握与创造“命运”，不得不化身偏执的狂人。”</p>
+<figure data-type="image" tabindex="3"><img src="https://KIROZE.github.io/post-images/1577893011365.jpg" alt="" loading="lazy"></figure>
+<blockquote>
+<p>MASTER</p>
+</blockquote>
+<p>“伴随现代电子科技的发展，人为制作出的器乐音色数目大大扩展，在此基础之上对它进行古典交响乐的排列与编制——它可以表达的东西也更加多样了。”</p>
+<figure data-type="image" tabindex="4"><img src="https://KIROZE.github.io/post-images/1577893017631.jpg" alt="" loading="lazy"></figure>
+<blockquote>
+<p>穿心攻击</p>
+</blockquote>
+<p>“人的心灵力量很脆弱。<br>
+当外界信息如同雷电般迅捷闪入脑海，<br>
+它只能将其加工成”碎片“般零散的存在。”</p>
+<figure data-type="image" tabindex="5"><img src="https://KIROZE.github.io/post-images/1577893028555.jpg" alt="" loading="lazy"></figure>
+<blockquote>
+<p>星辰大海</p>
+</blockquote>
+<p>“流量时代，人民大众需要精神按摩器。<br>
+需要用它来呐喊；对谁喊，无所谓，不重要。”</p>
+<figure data-type="image" tabindex="6"><img src="https://KIROZE.github.io/post-images/1577893052757.jpg" alt="" loading="lazy"></figure>
+<p>####################################</p>
+<p><s>#作品的主题与内容不仅无趣、中二，甚至还游荡着肤浅的气息。</s></p>
+<p>#这次经历仍值得拿出来纪念一番的吧。</p>
 ]]></content>
     </entry>
 </feed>
