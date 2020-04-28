@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-04-28T10:31:19.166Z</updated>
+    <updated>2020-04-28T10:47:47.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -64,6 +64,17 @@
         <link href="https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding/">
         </link>
         <updated>2020-04-08T04:39:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>咸鱼游戏开发中</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>咸鱼游戏开发中</p>
+<!-- more -->
+<p>这是一些战斗过程中会应用到的特性的设定；<br>
+一定程度上或许可以提升下游戏体验（大概？）</p>
+<p>如图所见，这些buff是可以叠加的<br>
+玩家所处形势的不同，会收获不同的特性，<br>
+当某些特性拼凑在一起的时候，便会获取一个新的，特殊的特性。</p>
+<p>可以是并帮助战斗的，也可以是强化收获性的......</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[这只血鹦鹉的名字是Big Boss ]]></title>
@@ -72,6 +83,15 @@
         </link>
         <updated>2020-04-08T04:11:19.000Z</updated>
         <content type="html"><![CDATA[<p>和《合金装备》的Snake是一个名字呢...</p>
+<p>前年养的，不过现在已经不幸逝世了。<br>
+有罗汉鱼的基因，所以长得很胖很大，脑袋很鼓，<br>
+拥有合格的缸霸素质。</p>
+<p>现实也是如此，打架挺厉害的。<br>
+所以它让我联想到了《合金装备》中的Big Boss——snake。<br>
+<img src="https://KIROZE.github.io/post-images/1588070846281.jpg" alt="" loading="lazy"><br>
+顺便就叫这个名字了。</p>
+<p>上学的时候知道它不在的消息很难过，<br>
+希望它在天堂安好。</p>
 ]]></content>
     </entry>
     <entry>
