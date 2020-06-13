@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-06-01T08:42:00.171Z</updated>
+    <updated>2020-06-13T10:13:07.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -123,22 +123,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[试做型游戏标题界面第四版]]></title>
+        <title type="html"><![CDATA[《虚拟低语》标题界面]]></title>
         <id>https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian/</id>
         <link href="https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian/">
         </link>
         <updated>2020-02-11T14:59:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>咸鱼游戏开发中</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>咸鱼游戏开发中</p>
- <!-- more -->
-<p>为什么会做到第四版呢？<br>
-———— 技术力限制，却又想法多变。</p>
-<p>改，简直就是改不停。<br>
-设定也是，脚本也是，画面也是...</p>
-<p>慢慢修改与成长固然是好的，<br>
-但是肝的成本有些小高...而且倘若不投入精力好好去杠一些东西，<br>
-我是真的会后悔的。</p>
+        <content type="html"><![CDATA[<p>是的是的<br>
+logo、UI背景贴图什么的都换掉了</p>
 ]]></content>
     </entry>
     <entry>
