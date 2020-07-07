@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>KIROZE STUDIO</title>
-    <updated>2020-07-07T02:58:58.991Z</updated>
+    <updated>2020-07-07T03:28:20.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://KIROZE.github.io/images/avatar.png</logo>
     <icon>https://KIROZE.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, KIROZE STUDIO</rights>
+    <entry>
+        <title type="html"><![CDATA[魇/YAN]]></title>
+        <id>https://KIROZE.github.io/post/yan-yan/</id>
+        <link href="https://KIROZE.github.io/post/yan-yan/">
+        </link>
+        <updated>2020-06-11T13:58:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>虚拟低语_概念设定</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>虚拟低语_概念设定</p>
+<!-- more -->
+<p>“魇”驻留在一座海洋。</p>
+<p>这座海洋并非是现实意义的海洋，它是贯穿整个世界锤摆下的诸多“泡影”诞生的源头与终局汇集之所；<br>
+一切“现实意义”上的结构与规则都会在此支离破碎。</p>
+<p>但是“魇”似乎代表了“非现实意义”，他们可以忽略海洋所具的桎梏，自由地穿梭其中。<br>
+泯灭躯体而选择了纯粹精神作为存在形式的他们，现在正在利用着他们的特性，<br>
+驱使着即将泯灭的“泡影”实体，制造着“锚”，YAN。</p>
+<p>为了驶向海洋的更深处。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[托纳提乌之影_Tonatiuh's shadow ]]></title>
         <id>https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh/</id>
