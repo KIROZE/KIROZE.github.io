@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://KIROZE.github.io</id>
-    <title>KIROZE STUDIO</title>
-    <updated>2020-09-20T02:02:37.440Z</updated>
+    <id>https://kiroze.github.io</id>
+    <title>KIROZE STUDIO </title>
+    <updated>2020-09-22T14:24:08.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://KIROZE.github.io"/>
-    <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
-    <subtitle>欢迎访问本站，通过本站你可以了解我的动态与作品及其相关信息</subtitle>
-    <logo>https://KIROZE.github.io/images/avatar.png</logo>
-    <icon>https://KIROZE.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, KIROZE STUDIO</rights>
+    <link rel="alternate" href="https://kiroze.github.io"/>
+    <link rel="self" href="https://kiroze.github.io/atom.xml"/>
+    <subtitle>欢迎访问本站，通过本站你可以了解到我和我作品的相关信息</subtitle>
+    <logo>https://kiroze.github.io/images/avatar.png</logo>
+    <icon>https://kiroze.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, KIROZE STUDIO </rights>
     <entry>
         <title type="html"><![CDATA[摸鱼]]></title>
-        <id>https://KIROZE.github.io/post/mo-yu/</id>
-        <link href="https://KIROZE.github.io/post/mo-yu/">
+        <id>https://kiroze.github.io/post/mo-yu/</id>
+        <link href="https://kiroze.github.io/post/mo-yu/">
         </link>
         <updated>2020-07-14T05:21:52.000Z</updated>
         <summary type="html"><![CDATA[<p>矢量图案制作起来好像很好玩...</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[魇/YAN]]></title>
-        <id>https://KIROZE.github.io/post/yan-yan/</id>
-        <link href="https://KIROZE.github.io/post/yan-yan/">
+        <id>https://kiroze.github.io/post/yan-yan/</id>
+        <link href="https://kiroze.github.io/post/yan-yan/">
         </link>
         <updated>2020-06-11T13:58:29.000Z</updated>
         <summary type="html"><![CDATA[<p>虚拟低语_概念设定</p>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[托纳提乌之影_Tonatiuh's shadow ]]></title>
-        <id>https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh/</id>
-        <link href="https://KIROZE.github.io/post/tuo-na-ti-wu-_tonatiuh/">
+        <id>https://kiroze.github.io/post/tuo-na-ti-wu-_tonatiuh/</id>
+        <link href="https://kiroze.github.io/post/tuo-na-ti-wu-_tonatiuh/">
         </link>
         <updated>2020-04-08T13:12:46.000Z</updated>
         <summary type="html"><![CDATA[<p>Pixiv kiroze_2365672486</p>
@@ -45,15 +45,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[这只血鹦鹉的名字是Big Boss ]]></title>
-        <id>https://KIROZE.github.io/post/big-boss/</id>
-        <link href="https://KIROZE.github.io/post/big-boss/">
+        <id>https://kiroze.github.io/post/big-boss/</id>
+        <link href="https://kiroze.github.io/post/big-boss/">
         </link>
         <updated>2020-04-08T04:11:19.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[特性的设定完成了]]></title>
-        <id>https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding/</id>
-        <link href="https://KIROZE.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding/">
+        <id>https://kiroze.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding/</id>
+        <link href="https://kiroze.github.io/post/guan-yu-bei-dong-ji-neng-de-she-ding/">
         </link>
         <updated>2020-04-02T04:39:09.000Z</updated>
         <summary type="html"><![CDATA[<p>咸鱼游戏开发中</p>
@@ -63,8 +63,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[去年学校图书馆里发现的宝贝]]></title>
-        <id>https://KIROZE.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei/</id>
-        <link href="https://KIROZE.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei/">
+        <id>https://kiroze.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei/</id>
+        <link href="https://kiroze.github.io/post/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei/">
         </link>
         <updated>2020-03-02T04:06:41.000Z</updated>
         <summary type="html"><![CDATA[<p>钢之炼金术师</p>
@@ -74,22 +74,22 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Jormungand ]]></title>
-        <id>https://KIROZE.github.io/post/xu-ni-di-yu-_virtual-whispers/</id>
-        <link href="https://KIROZE.github.io/post/xu-ni-di-yu-_virtual-whispers/">
+        <id>https://kiroze.github.io/post/xu-ni-di-yu-_virtual-whispers/</id>
+        <link href="https://kiroze.github.io/post/xu-ni-di-yu-_virtual-whispers/">
         </link>
         <updated>2020-02-26T02:55:26.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[《虚拟低语》标题界面]]></title>
-        <id>https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian/</id>
-        <link href="https://KIROZE.github.io/post/shi-zuo-xing-biao-ti-jie-mian/">
+        <id>https://kiroze.github.io/post/shi-zuo-xing-biao-ti-jie-mian/</id>
+        <link href="https://kiroze.github.io/post/shi-zuo-xing-biao-ti-jie-mian/">
         </link>
         <updated>2020-02-11T14:59:30.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[四天设计素描学习的结课画册]]></title>
-        <id>https://KIROZE.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo/</id>
-        <link href="https://KIROZE.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo/">
+        <id>https://kiroze.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo/</id>
+        <link href="https://kiroze.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo/">
         </link>
         <updated>2019-12-14T14:04:44.000Z</updated>
         <summary type="html"><![CDATA[<p>拿几张作品简短纪念</p>
