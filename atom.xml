@@ -1,108 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://KIROZE.github.io</id>
-    <title>KIROZE STUDIO</title>
-    <updated>2020-01-16T09:44:08.493Z</updated>
+    <id>https://www.kiroze.github.io</id>
+    <title>Kgallery</title>
+    <updated>2021-07-25T13:58:02.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://KIROZE.github.io"/>
-    <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
-    <subtitle>欢迎访问本站，通过本站你可以了解我的动态与作品及其相关信息</subtitle>
-    <logo>https://KIROZE.github.io/images/avatar.png</logo>
-    <icon>https://KIROZE.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, KIROZE STUDIO</rights>
+    <link rel="alternate" href="https://www.kiroze.github.io"/>
+    <link rel="self" href="https://www.kiroze.github.io/atom.xml"/>
+    <logo>https://www.kiroze.github.io/images/avatar.png</logo>
+    <icon>https://www.kiroze.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Kgallery</rights>
     <entry>
-        <title type="html"><![CDATA[短暂四天的设计素描学习成果]]></title>
-        <id>https://KIROZE.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo</id>
-        <link href="https://KIROZE.github.io/post/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo">
+        <title type="html"><![CDATA[Cosmos and their creation]]></title>
+        <id>https://www.kiroze.github.io/post/cosmos-and-their-creation/</id>
+        <link href="https://www.kiroze.github.io/post/cosmos-and-their-creation/">
         </link>
-        <updated>2019-12-14T14:04:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>拿几张作品简短纪念</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>拿几张作品简短纪念</p>
-<!-- more -->
-<blockquote>
-<p>Cyber Kronos</p>
-</blockquote>
-<p>“人类文明发展演进的过程，是机械与科技进步的过程；也是价值观变化与革新的过程。旧社会同新社会的文明冲突、交融。诸神的黑白霓虹就此展开。”</p>
-<figure data-type="image" tabindex="1"><img src="https://KIROZE.github.io/post-images/1577892943617.jpg" alt="" loading="lazy"></figure>
-<blockquote>
-<p>Goetia-幻痛</p>
-</blockquote>
-<p>“Goetia是《旧约圣经》中以色列国王所罗门召唤七十二魔柱治理国家的秘典，拥有无尽的知识和力量，然而即便如此仍有无法触及之地；驾驭云雾与火焰的神诉说着极东的异域魔力...“</p>
-<figure data-type="image" tabindex="2"><img src="https://KIROZE.github.io/post-images/1577893004598.jpg" alt="" loading="lazy"></figure>
-<blockquote>
-<p>序列与偏执狂</p>
-</blockquote>
-<p>“人的手可以创造，把握诸多事物。但是唯独不能把握“命运”。<br>
-“命运”的轮廓时而完整不动如山，时而却又残缺支离破碎。它不断地变动与穿梭在浩瀚的宇宙与星海，<br>
-人为了把握与创造“命运”，不得不化身偏执的狂人。”</p>
-<figure data-type="image" tabindex="3"><img src="https://KIROZE.github.io/post-images/1577893011365.jpg" alt="" loading="lazy"></figure>
-<blockquote>
-<p>MASTER</p>
-</blockquote>
-<p>“伴随现代电子科技的发展，人为制作出的器乐音色数目大大扩展，在此基础之上对它进行古典交响乐的排列与编制——它可以表达的东西也更加多样了。”</p>
-<figure data-type="image" tabindex="4"><img src="https://KIROZE.github.io/post-images/1577893017631.jpg" alt="" loading="lazy"></figure>
-<blockquote>
-<p>穿心攻击</p>
-</blockquote>
-<p>“人的心灵力量很脆弱。<br>
-当外界信息如同雷电般迅捷闪入脑海，<br>
-它只能将其加工成”碎片“般零散的存在。”</p>
-<figure data-type="image" tabindex="5"><img src="https://KIROZE.github.io/post-images/1577893028555.jpg" alt="" loading="lazy"></figure>
-<blockquote>
-<p>星辰大海</p>
-</blockquote>
-<p>“流量时代，人民大众需要精神按摩器。<br>
-需要用它来呐喊；对谁喊，无所谓，不重要。”</p>
-<figure data-type="image" tabindex="6"><img src="https://KIROZE.github.io/post-images/1577893052757.jpg" alt="" loading="lazy"></figure>
-<p>####################################</p>
-<p><s>#作品的主题与内容不仅无趣、中二，甚至还游荡着肤浅的气息。</s></p>
-<p>#这次经历仍值得拿出来纪念一番的吧。</p>
-]]></content>
+        <updated>2021-07-25T13:54:01.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[亲密接触]]></title>
-        <id>https://KIROZE.github.io/post/qin-mi-jie-hong</id>
-        <link href="https://KIROZE.github.io/post/qin-mi-jie-hong">
+        <title type="html"><![CDATA[TINATOH]]></title>
+        <id>https://www.kiroze.github.io/post/raintious/</id>
+        <link href="https://www.kiroze.github.io/post/raintious/">
         </link>
-        <updated>2019-11-29T15:30:29.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>那你是什么。”他喝下一口酒，却全无感觉。</p>
-</blockquote>
-<p>“我就是网络，凯斯。”</p>
-<p>凯斯大笑。“这让你变成什么样？”</p>
-<p>“无所在，无所不在。我就是一切的总和，是全部的全部。”</p>
-<pre><code>                                              ——威廉·吉布森，《神经漫游者》</code></pre>
-]]></content>
+        <updated>2021-07-25T02:45:01.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于YIGE丝网版画...波普艺术风格海报的尝试]]></title>
-        <id>https://KIROZE.github.io/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi</id>
-        <link href="https://KIROZE.github.io/post/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi">
+        <title type="html"><![CDATA[Rantious]]></title>
+        <id>https://www.kiroze.github.io/post/rantious/</id>
+        <link href="https://www.kiroze.github.io/post/rantious/">
         </link>
-        <updated>2019-11-24T15:28:18.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>文案1：A Strong hope，than any kind of realized happiness，has a greater impact on life. 强烈的希望，比任何一种已实现的快乐，对人生具有更大的激奋作用。 ——尼采</p>
-</blockquote>
-<blockquote>
-<p>文案2： God is in my eyes,No more irreverence in my heart,Let my eyes be blinded by my tears,If one day I will believe such a lie. 我的眼睛里供着神，心中再不能存一丝不敬，让我的眼睛被泪水蒙蔽，如果我有一天会相信这样的假话。 ——莎士比亚</p>
-</blockquote>
-<figure data-type="image" tabindex="1"><img src="https://KIROZE.github.io/post-images/1577892585293.jpg" alt="" loading="lazy"></figure>
-]]></content>
+        <updated>2021-07-25T02:45:01.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于VIRTUAL_WHISPER.S的制作]]></title>
-        <id>https://KIROZE.github.io/post/guan-yu-demo-ban-ben-de-ji-hua</id>
-        <link href="https://KIROZE.github.io/post/guan-yu-demo-ban-ben-de-ji-hua">
+        <title type="html"><![CDATA[与虎]]></title>
+        <id>https://www.kiroze.github.io/post/hu-pi/</id>
+        <link href="https://www.kiroze.github.io/post/hu-pi/">
         </link>
-        <updated>2019-11-10T05:11:46.000Z</updated>
-        <content type="html"><![CDATA[<p>当下的游戏制作进度非常缓慢。</p>
-<p>无论是技术、素材还是文案，都存在着数不太清楚的困难。</p>
-<p>日常活动很多，对于制作的投入精力也并不充足。</p>
-<p>但是会一直坚持下去的。</p>
-<p>DEMO版本的话，会展示游戏的三部分有趣的内容</p>
-<p>AVG文字视觉小说 INVADER射击游戏 以及 解谜迷宫</p>
-<p>请勿抱期待</p>
-]]></content>
+        <updated>2021-07-25T02:29:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 拾粢槃凤]]></title>
+        <id>https://www.kiroze.github.io/post/shi-zi-pan-feng/</id>
+        <link href="https://www.kiroze.github.io/post/shi-zi-pan-feng/">
+        </link>
+        <updated>2021-07-24T15:47:35.000Z</updated>
     </entry>
 </feed>
