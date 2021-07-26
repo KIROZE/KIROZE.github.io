@@ -1,54 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
-    <title>Kgallery</title>
-    <updated>2021-07-26T10:20:30.128Z</updated>
+    <title>KELIN GALLERY</title>
+    <updated>2021-07-26T12:20:40.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
     <logo>https://KIROZE.github.io/images/avatar.png</logo>
     <icon>https://KIROZE.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Kgallery</rights>
-    <entry>
-        <title type="html"><![CDATA[QINGTAN]]></title>
-        <id>https://KIROZE.github.io/post/qingtan/</id>
-        <link href="https://KIROZE.github.io/post/qingtan/">
-        </link>
-        <updated>2021-07-26T06:32:30.000Z</updated>
-    </entry>
+    <rights>All rights reserved 2021, KELIN GALLERY</rights>
     <entry>
         <title type="html"><![CDATA[Cosmos and their creation]]></title>
         <id>https://KIROZE.github.io/post/cosmos-and-their-creation/</id>
         <link href="https://KIROZE.github.io/post/cosmos-and-their-creation/">
         </link>
-        <updated>2021-07-25T13:54:01.000Z</updated>
+        <updated>2021-07-28T13:54:01.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TINATOH]]></title>
+        <title type="html"><![CDATA[神殿]]></title>
+        <id>https://KIROZE.github.io/post/shen-dian/</id>
+        <link href="https://KIROZE.github.io/post/shen-dian/">
+        </link>
+        <updated>2021-07-28T11:38:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life Type]]></title>
+        <id>https://KIROZE.github.io/post/life-type/</id>
+        <link href="https://KIROZE.github.io/post/life-type/">
+        </link>
+        <updated>2021-07-28T11:37:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huo Type]]></title>
+        <id>https://KIROZE.github.io/post/huo-type/</id>
+        <link href="https://KIROZE.github.io/post/huo-type/">
+        </link>
+        <updated>2021-07-28T11:34:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tonatiah]]></title>
         <id>https://KIROZE.github.io/post/raintious/</id>
         <link href="https://KIROZE.github.io/post/raintious/">
         </link>
-        <updated>2021-07-25T02:45:01.000Z</updated>
+        <updated>2021-07-28T02:45:01.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rantious]]></title>
         <id>https://KIROZE.github.io/post/rantious/</id>
         <link href="https://KIROZE.github.io/post/rantious/">
         </link>
-        <updated>2021-07-25T02:45:01.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与虎]]></title>
-        <id>https://KIROZE.github.io/post/hu-pi/</id>
-        <link href="https://KIROZE.github.io/post/hu-pi/">
-        </link>
-        <updated>2021-07-25T02:29:48.000Z</updated>
+        <updated>2021-07-28T02:45:01.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[ 拾粢槃凤]]></title>
         <id>https://KIROZE.github.io/post/shi-zi-pan-feng/</id>
         <link href="https://KIROZE.github.io/post/shi-zi-pan-feng/">
         </link>
-        <updated>2021-07-24T15:47:35.000Z</updated>
+        <updated>2021-07-27T15:47:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CYBERHANG]]></title>
+        <id>https://KIROZE.github.io/post/cyberhang/</id>
+        <link href="https://KIROZE.github.io/post/cyberhang/">
+        </link>
+        <updated>2021-07-26T12:08:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIBIRU]]></title>
+        <id>https://KIROZE.github.io/post/xin/</id>
+        <link href="https://KIROZE.github.io/post/xin/">
+        </link>
+        <updated>2021-07-26T12:01:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASH CROW]]></title>
+        <id>https://KIROZE.github.io/post/zhong-mo/</id>
+        <link href="https://KIROZE.github.io/post/zhong-mo/">
+        </link>
+        <updated>2021-07-26T11:55:11.000Z</updated>
     </entry>
 </feed>
