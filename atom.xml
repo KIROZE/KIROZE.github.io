@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KIROZE.github.io</id>
     <title>Kgallery</title>
-    <updated>2021-07-26T06:03:50.333Z</updated>
+    <updated>2021-07-26T06:35:43.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://KIROZE.github.io"/>
     <link rel="self" href="https://KIROZE.github.io/atom.xml"/>
     <logo>https://KIROZE.github.io/images/avatar.png</logo>
     <icon>https://KIROZE.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Kgallery</rights>
+    <entry>
+        <title type="html"><![CDATA[QINGTAN]]></title>
+        <id>https://KIROZE.github.io/post/qingtan/</id>
+        <link href="https://KIROZE.github.io/post/qingtan/">
+        </link>
+        <updated>2021-07-26T06:32:30.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cosmos and their creation]]></title>
         <id>https://KIROZE.github.io/post/cosmos-and-their-creation/</id>
@@ -29,13 +36,6 @@
         <link href="https://KIROZE.github.io/post/rantious/">
         </link>
         <updated>2021-07-25T02:45:01.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[       ]]></title>
-        <id>https://KIROZE.github.io/post/fei-qun/</id>
-        <link href="https://KIROZE.github.io/post/fei-qun/">
-        </link>
-        <updated>2021-07-25T02:35:41.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[与虎]]></title>
