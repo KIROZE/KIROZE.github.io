@@ -1,32 +1,20 @@
 {
   "config": {
-    "archivesPageSize": 100,
+    "archivesPageSize": 50,
     "archivesPath": "archives",
     "dateFormat": "YYYY-MM-DD",
     "feedCount": 10,
     "feedFullText": true,
-    "footerInfo": "",
-    "postPageSize": 50,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
+    "postPageSize": 10,
     "postPath": "post",
     "postUrlFormat": "SLUG",
     "showFeatureImage": true,
-    "siteDescription": "",
-    "siteName": "Kiroze Gallery",
+    "siteDescription": "温故而知新",
+    "siteName": "Gridea",
     "tagPath": "tag",
     "tagUrlFormat": "SHORT_ID",
     "themeName": "gridea-theme-nederburg-master"
   },
-  "customConfig": {
-    "envelope": "",
-    "facebook": "",
-    "ga": "",
-    "github": "",
-    "qq": "",
-    "rss": "",
-    "twitter": "",
-    "userdesc": "",
-    "username": "KELIN",
-    "weibo": "",
-    "zhihu": ""
-  }
+  "customConfig": {}
 }
