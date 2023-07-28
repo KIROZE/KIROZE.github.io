@@ -1,0 +1,315 @@
+{
+    "name": "Chic-给我的主题来个Star呗!🎉",
+    "version": "1.6.1",
+    "author": "@ITJoker (原作者：@Bentham)",
+    "repository": "https://github.com/ITJoker233/Gridea-theme-Chic",
+    "customConfig": [{
+            "name": "language",
+            "label": "语言",
+            "group": "语言",
+            "value": "en",
+            "type": "select",
+            "options": [{
+                    "label": "English",
+                    "value": "en"
+                },
+                {
+                    "label": "中文",
+                    "value": "zh"
+                }
+            ]
+        },
+        {
+            "name": "friends",
+            "label": "友链",
+            "group": "友链",
+            "type": "array",
+            "value": [{
+                "description": "ITJoker's Blog",
+                "siteLink": "https://blog.itjoker.cn",
+                "siteLogo": "https://blog.itjoker.cn/images/avatar.png",
+                "siteName": "ITJoker"
+            }],
+            "arrayItems": [{
+                    "label": "名称",
+                    "name": "siteName",
+                    "type": "input",
+                    "value": "",
+                    "note": "请输入站点名称"
+                },
+                {
+                    "label": "链接",
+                    "name": "siteLink",
+                    "type": "input",
+                    "value": "",
+                    "note": "请输入链接地址"
+                },
+                {
+                    "label": "Logo",
+                    "name": "siteLogo",
+                    "type": "input",
+                    "value": "",
+                    "note": "请输入Logo地址"
+                },
+                {
+                    "label": "描述",
+                    "name": "description",
+                    "type": "textarea",
+                    "value": "",
+                    "note": "请输入描述信息"
+                }
+            ],
+            "note": ""
+        },
+        {
+            "name": "version",
+            "label": "主题版本",
+            "group": "网站信息",
+            "value": "1.6.1",
+            "type": "select",
+            "options": [{
+                "label": "最新版本",
+                "value": "1.6.1"
+            }]
+        },
+        {
+            "name": "update",
+            "label": "更新提醒",
+            "group": "更新提醒",
+            "value": "on",
+            "type": "select",
+            "options": [{
+                    "label": "开",
+                    "value": "on"
+                },
+                {
+                    "label": "关",
+                    "value": "off"
+                }
+
+            ]
+        },
+        {
+            "name": "live2ddebug",
+            "label": "是否本地预览(同步时请关闭)",
+            "group": "Live2d",
+            "value": "off",
+            "type": "select",
+            "options": [{
+                    "label": "关",
+                    "value": "off"
+                },
+                {
+                    "label": "开",
+                    "value": "on"
+                }
+            ]
+        },
+        {
+            "name": "live2d",
+            "label": "Live2d开启状态",
+            "group": "Live2d",
+            "value": "on",
+            "type": "select",
+            "options": [{
+                    "label": "开",
+                    "value": "on"
+                },
+                {
+                    "label": "关",
+                    "value": "off"
+                }
+            ]
+        },
+        {
+            "name": "music_switch",
+            "label": "Music插件",
+            "group": "Music插件",
+            "value": "on",
+            "type": "select",
+            "options": [{
+                    "label": "开",
+                    "value": "on"
+                },
+                {
+                    "label": "关",
+                    "value": "off"
+                }
+            ]
+        },
+        {
+            "name": "music_tips",
+            "label": "详细教程见:https://blog.itjoker.cn/post/azQ6rNbFG/",
+            "group": "Music插件",
+            "type": "label"
+        },
+        {
+            "name": "music_url",
+            "label": "歌曲的url地址",
+            "group": "Music插件",
+            "value": "",
+            "type": "input",
+            "note": "请输入歌曲的url地址"
+        },
+        {
+            "name": "music_pic",
+            "label": "歌曲的图片地址",
+            "group": "Music插件",
+            "value": "",
+            "type": "input",
+            "note": "请输入歌曲的图片地址"
+        },
+        {
+            "name": "music_name",
+            "label": "歌曲名",
+            "group": "Music插件",
+            "value": "",
+            "type": "input",
+            "note": "请输入歌曲名"
+        },
+        {
+            "name": "music_author",
+            "label": "歌曲的作者名",
+            "group": "Music插件",
+            "value": "",
+            "type": "input",
+            "note": "请输入歌曲的作者名"
+        },
+        {
+            "name": "author",
+            "label": "博主名字",
+            "group": "网站信息",
+            "value": "",
+            "type": "input",
+            "note": "请输入博主名字"
+        },
+        {
+            "name": "keywords",
+            "label": "关键字",
+            "group": "网站信息",
+            "value": "",
+            "type": "input",
+            "note": "请输入关键字(多个请用英文的,分开)"
+        },
+        {
+            "name": "description",
+            "label": "描述",
+            "group": "网站信息",
+            "value": "",
+            "type": "input",
+            "note": "请输入描述"
+        },
+        {
+            "name": "rss",
+            "label": "rss",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "twitter",
+            "label": "twitter",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "facebook",
+            "label": "facebook",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "github",
+            "label": "github",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "linkedin",
+            "label": "linkedin",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "youtube",
+            "label": "youtube",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "instagram",
+            "label": "instagram",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "tumblr",
+            "label": "tumblr",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "weibo",
+            "label": "微博",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "qq",
+            "label": "QQ",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "send",
+            "label": "Telegram",
+            "group": "社交",
+            "value": "",
+            "type": "input",
+            "note": "链接地址"
+        },
+        {
+            "name": "ga",
+            "label": "跟踪 ID",
+            "group": "谷歌统计",
+            "value": "",
+            "type": "input",
+            "note": "UA-xxxxxxxxx-x"
+        },
+        {
+            "name": "baidu",
+            "label": "百度自动提交",
+            "group": "百度自动提交",
+            "value": "on",
+            "type": "select",
+            "options": [{
+                    "label": "开",
+                    "value": "on"
+                },
+                {
+                    "label": "关",
+                    "value": "off"
+                }
+            ]
+        }
+    ]
+}
