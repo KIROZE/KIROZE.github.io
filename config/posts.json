@@ -1,11 +1,189 @@
 {
   "posts": [
     {
-      "content": "> 欢迎来到我的小站呀，很高兴遇见你！🤝\n\n## 🏠 关于本站\n\n## 👨‍💻 博主是谁\n\n## ⛹ 兴趣爱好\n\n## 📬 联系我呀\n",
+      "content": "（我的Pixiv id：2365672486）\r\n",
       "data": {
-        "title": "关于",
-        "date": "2019-01-25 19:09:48",
-        "tags": null,
+        "title": "托纳提乌之影_Tonatiuh's shadow ",
+        "date": "2020-04-08 21:12:46",
+        "tags": [
+          "创意"
+        ],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/tuo-na-ti-wu-_tonatiuh.png",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "tuo-na-ti-wu-_tonatiuh"
+    },
+    {
+      "content": " ",
+      "data": {
+        "title": "特性的设定完成了",
+        "date": "2020-04-08 12:39:09",
+        "tags": [
+          "创意",
+          "VIRTUAL_WHISPER.S"
+        ],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/guan-yu-bei-dong-ji-neng-de-she-ding.png",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "guan-yu-bei-dong-ji-neng-de-she-ding"
+    },
+    {
+      "content": "和《合金装备》的Snake是一个名字呢...\r\n",
+      "data": {
+        "title": "这只血鹦鹉的名字是Big Boss ",
+        "date": "2020-04-08 12:11:19",
+        "tags": [],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/big-boss.jpg",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "big-boss"
+    },
+    {
+      "content": " ",
+      "data": {
+        "title": "去年学校图书馆里发现的宝贝",
+        "date": "2020-04-08 12:06:41",
+        "tags": [],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei.jpg",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "xue-xiao-tu-shu-guan-li-fa-xian-de-bao-bei"
+    },
+    {
+      "content": " ",
+      "data": {
+        "title": "试做型游戏标题界面第四版",
+        "date": "2020-04-08 11:59:30",
+        "tags": [
+          "创意",
+          "VIRTUAL_WHISPER.S"
+        ],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/shi-zuo-xing-biao-ti-jie-mian.PNG",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "shi-zuo-xing-biao-ti-jie-mian"
+    },
+    {
+      "content": "    ",
+      "data": {
+        "title": "一张关于游戏内地图环境的构想",
+        "date": "2020-04-08 11:57:00",
+        "tags": [
+          "创意",
+          "VIRTUAL_WHISPER.S"
+        ],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/lu-xin-yi-shi.png",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "lu-xin-yi-shi"
+    },
+    {
+      "content": "\r\n  \r\n                        \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "data": {
+        "title": "Jormungand ",
+        "date": "2020-02-26 10:55:26",
+        "tags": [],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/xu-ni-di-yu-_virtual-whispers.png",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "xu-ni-di-yu-_virtual-whispers"
+    },
+    {
+      "content": " ",
+      "data": {
+        "title": "四天设计素描学习的结课画册",
+        "date": "2019-12-14 22:04:44",
+        "tags": [
+          "GAN",
+          "创意"
+        ],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo.jpg",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "duan-zan-si-tian-de-she-ji-su-miao-xue-xi-cheng-guo"
+    },
+    {
+      "content": "老霓霓虹虹了",
+      "data": {
+        "title": "一张模模糊糊的海报",
+        "date": "2019-11-24 23:28:18",
+        "tags": [
+          "储物箱",
+          "GAN",
+          "创意"
+        ],
+        "published": true,
+        "hideInList": false,
+        "feature": "/post-images/guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi.jpg",
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "guan-yu-yige-si-wang-ban-hua-bo-pu-yi-zhu-feng-ge-hai-bao-de-chang-shi"
+    },
+    {
+      "content": "< /> <b>【截图】</b></p> <p dir=\"ltr\" ><img src=\"http://imglf6.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvUTRveGs3TEVkTEc0OC9RamZpNUtMWktDWDU2VXRiYVVBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvYzZ3OFkvWnVMK1RzOVdJWEZHSEY5Y21rQ0dxL1ZJREZRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvUlFQSWtLeExHWVg3WkFiNGZjMTNzY1NTWDk5eEo4UHp3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /></p> <p dir=\"ltr\" ><img src=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvYkVmRGNCcXRQRlk2TElVVnFCbkIwcHR2VUdGN01KdkpRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvWVU3RS9wOUZ2NnFLbVJ2U1Y2V3FadnU0cTZZNUNpOFBBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvYW1CeVJxb3dxRU51cGVLelJ5NjJJM2VuaHhYUkJnMUd3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /></p> <p dir=\"ltr\" ><b>【操作】</b></p> <p dir=\"ltr\" >回车进行阅读<br /> ctrl可快进对话<br /></p></p><br/><br/><a target='_blank' href='http://huoguoshenchu.lofter.com'>LOFTER：火锅深处</a>&nbsp;&nbsp;&nbsp;<a target='_blank' href='http://huoguoshenchu.lofter.com/post/1f0ecc61_1c699f8e0'>http://huoguoshenchu.lofter.com/post/1f0ecc61_1c699f8e0</a>\r\n</description>\r\n<guid isPermaLink=\"false\">\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_1c699f8e0\r\n</guid>\r\n<pubDate>Mon, 09 Sep 2019 16:55:30 +0800</pubDate>\r\n<author>火锅深处</author>\r\n<dc:creator>火锅深处</dc:creator>\r\n</item>\r\n<item>\r\n<title>【R剧】《神狼》（8.31更新V1.51）</title>\r\n<link>\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_1c6624570\r\n</link>\r\n<description>\r\n<p class='text'><p><strong>【简介】</strong><br /></p> <p>围绕“让人通晓兽语”的泉水展开的，想要剥下狼皮的猎人与为了保护神狼而杀人的女性的故事。</p> <p>Project1论坛的“边界”主题参赛作。</p> <p><a rel=\"nofollow\" href=\"https://rpg.blue/thread-478139-1-1.html\" target=\"_blank\" >https://rpg.blue/thread-478139-1-1.html</a><br /></p> <p><br /></p> <p><strong>【基本信息】</strong></p> <p>制作工具：RPGmakerVX ACE<br /></p> <p>时长：15~20分钟</p> <p>是否脱离RTP：脱离RTP</p> <p>就是一个小说啦，虽然有结局分歧。</p> <p><br /></p> <p><strong>【下载信息】</strong></p> <ul style=\"list-style-type:disc;\" > <li><p>下载页：1.51版本https://www.lanzous.com/i5wsg6h</p></li> </ul> <p><strong>【截图】</strong></p> <p><img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC80V0JFc3VmUEpZbnVzQkFvT3h5TkR0OFpEV0VkbWlBUXcyQUhJODlqZkh3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC80V0JFc3VmUEpZbnVzQkFvT3h5TkR0OFpEV0VkbWlBUXcyQUhJODlqZkh3PT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><br /><br /><br /><br /><br /></p> <p><strong>【操作】</strong></p> <p>回车进行阅读<br />ctrl可快进对话<br /><br /></p> <p><strong>【更新信息】</strong><br /></p> <p><strong>2019.8.30.</strong>更新V1.5。全篇文本替换70%，增加BGM4首，场景图5张。替换了新UI。</p> <p><strong>2019.8.30.</strong>修了一些BUG+标题图加上了（粗糙的）章节名<br /></p></p><br/><br/><a target='_blank' href='http://huoguoshenchu.lofter.com'>LOFTER：火锅深处</a>&nbsp;&nbsp;&nbsp;<a target='_blank' href='http://huoguoshenchu.lofter.com/post/1f0ecc61_1c6624570'>http://huoguoshenchu.lofter.com/post/1f0ecc61_1c6624570</a>\r\n</description>\r\n<guid isPermaLink=\"false\">\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_1c6624570\r\n</guid>\r\n<pubDate>Sun, 11 Aug 2019 11:23:13 +0800</pubDate>\r\n<author>火锅深处</author>\r\n<dc:creator>火锅深处</dc:creator>\r\n</item>\r\n<item>\r\n<title>自制游戏《迷宫游商与勇者之死》人设图变化</title>\r\n<link>\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_1c60a1475\r\n</link>\r\n<description>\r\n<p class='text'><p>虽然我觉得这个坑一时半会填不了，但是为了提醒自己有这么一个坑所以还是把人设放在这里吧。</p> <p>人物的服装设计之类的是根据原素材站ゆらゆらドット的行走图画的。</p> <p><strong>请勿挪作他用。</strong></p> <p><br /></p> <p><span style=\"text-decoration:underline;\" >最初版本：</span></p> <p>四位主要冒险者，配色并没有完全按照行走图，而是凭感觉画的。</p> <p>虽然红毛那位的脸有点画歪了，但是这版涂鸦画的超爽，完全是随手画随手改，边画草稿边上色。</p> <p><img src=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLK3d5R2VlQ0d6dWVtSmNHK2lMN01zek80WENJL2dvdS9RPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLK3d5R2VlQ0d6dWVtSmNHK2lMN01zek80WENJL2dvdS9RPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><br /></p> <p><span style=\"text-decoration:underline;\" >二次修改</span></p> <p>因为要画立绘所以画出了身高差。</p> <p>加上了主角和女神。配色基本是行走图吸色＋微调。</p> <p>这版修改人体姿势到做噩梦，明明都是很简单的姿势，察觉到（对于我这个外行来说）可能站着不动才是最难画的。</p> <p>自己和别人评价画的最理想的都是金发双马尾娘，</p> <p>银发魔法师的气质有点变了,上一版好像比这一版更愤世嫉俗，虽然两种我都喜欢。</p> <p><img src=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLeXZVMk05bGhZdFRDNU1pQ0RXNzk3VW9QMi82U2tQQnpnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLeXZVMk05bGhZdFRDNU1pQ0RXNzk3VW9QMi82U2tQQnpnPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><br /></p> <p><span style=\"text-decoration:underline;\" >定稿设定</span></p> <p>在游戏中显示的版本。但是因为游戏出BUG所以明明有画却没显示出来。</p> <p><strong>主人公吉米</strong></p> <p>想法就是“普通，能看出是主人公，脑子看起来不会太笨”。</p> <p><img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLNkhkYVJHV3UrMy94SlN1YjVSMjBPVzloY2E2NGVRV0t3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLNkhkYVJHV3UrMy94SlN1YjVSMjBPVzloY2E2NGVRV0t3PT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /></p> <p>吉米，黑袍版本。袍子涂起来很爽。</p> <p>另外这个困扰的表情虽然是后加的，但是成为了在游戏中最好用的表情</p> <p><img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLd0dmVXRnSHFBYnRRcHpaejFIQVlDNFN6TlNmMXcwMGVBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLd0dmVXRnSHFBYnRRcHpaejFIQVlDNFN6TlNmMXcwMGVBPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><br /><strong>主人公的妹妹艾达</strong></p> <p>原本没有头像，但是后来设定可能在结局CG出现，所以就画出来了。</p> <p>想法依然是“普通就行”，嗯，普通，不能是一流美女。</p> <p><img src=\"http://imglf6.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLNjRNcnlEYndDaUZWYWZYTFBYQXBaRk5ReC94TC9tN29RPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf6.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLNjRNcnlEYndDaUZWYWZYTFBYQXBaRk5ReC94TC9tN29RPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><strong>战士西奥</strong></p> <p>修改过程中发现眼睛区域的微妙变化对颜值的影响真大啊。</p> <p>是个很钻牛角尖的人......不知为啥我心目中的战士都比较认死理。</p> <p><img src=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLOVRnRWo0K1NTL3FxWGJ6cWhDdGpCOFhrblFDQVhMb0V3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLOVRnRWo0K1NTL3FxWGJ6cWhDdGpCOFhrblFDQVhMb0V3PT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><strong>异国少女艾斯黛拉</strong></p> <p>选了在游戏里只出现过一次但我其实特别想用的这个笑容。</p> <p>小太阳一样的角色，总之就是可爱！</p> <p>比起傲娇的中马尾和高马尾更喜欢率直的低马尾（个人印象）</p> <p>设定上其实有雀斑，但是因为太浅画着画着就没了。</p> <p><img src=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLOGZlazJDcXpkeTFpbFhZNlZ1UjlsRTk2VVZIK0NLbWdRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLOGZlazJDcXpkeTFpbFhZNlZ1UjlsRTk2VVZIK0NLbWdRPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><strong>学者露娜</strong></p> <p>名字的拼写是“Lunar”，单纯是不想撞名率太高，但不知道用起来会不会奇怪。</p> <p>总之就是想要个黑皮然后书中分衣着是对称式的大姐姐，所以就画了，甚至改了行走图。不知道对这个外形的设定有何而来。</p> <p>最初的设定没这么稳重（虽然依然是黑皮中分大姐姐），为了和艾斯黛拉形成反差改成了稳重的性格</p> <p><img src=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLN1B6UzNYZjkrUHBkZ3BOVG03eHkxZUhtRE1KTHcxUWxnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf5.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLN1B6UzNYZjkrUHBkZ3BOVG03eHkxZUhtRE1KTHcxUWxnPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><strong>魔法师尤利乌斯</strong></p> <p>不知为何我心目中的魔法师都不太喜欢和人打交道。</p> <p>尤其不待见主角。在游戏后期戏份很重，可能比主角还重要。</p> <p>想尽量画出“年轻的时候是个帅哥”的样子，虽然我更喜欢皱纹版本。</p> <p><img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLM2Q1N1ArMDJCd3FoLzByczF4dzdkR1I5ellzVW9Ka1ZnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLM2Q1N1ArMDJCd3FoLzByczF4dzdkR1I5ellzVW9Ka1ZnPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /></p> <p>表情差分</p> <p><img src=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLMzQ2RitXb2F2Zi9NQ090N216akg5RXpISS9Pa0ZMTWxnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" smallsrc=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLMzQ2RitXb2F2Zi9NQ090N216akg5RXpISS9Pa0ZMTWxnPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /></p> <p><strong>女神拉维娜</strong></p> <p>手臂好像画的走形了，行走图好像不完全是希腊长袍只是单纯的披肩，所以结构贼难画。</p> <p>坏人那种淡定地认为自己在做正确的事的表现写起来很畅快。原本有更多的恶人脸设定，但是后来觉得一脸和善地说很离谱的事好像更符合她的角色设定。</p> <p><img src=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLMlFEUDNUMmNxWERaQ2dVUDhsa0k1S0VuMS9vU2xvK053PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" border=\"0\" hspace=\"0\" vspace=\"0\" smallsrc=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9KTEFQQWovejBLMlFEUDNUMmNxWERaQ2dVUDhsa0k1S0VuMS9vU2xvK053PT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><br /><br /></p></p><br/><br/><a target='_blank' href='http://huoguoshenchu.lofter.com'>LOFTER：火锅深处</a>&nbsp;&nbsp;&nbsp;<a target='_blank' href='http://huoguoshenchu.lofter.com/post/1f0ecc61_1c60a1475'>http://huoguoshenchu.lofter.com/post/1f0ecc61_1c60a1475</a>\r\n</description>\r\n<guid isPermaLink=\"false\">\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_1c60a1475\r\n</guid>\r\n<pubDate>Thu, 27 Jun 2019 08:37:47 +0800</pubDate>\r\n<author>火锅深处</author>\r\n<dc:creator>火锅深处</dc:creator>\r\n</item>\r\n<item>\r\n<title>做游戏的咸鱼期</title>\r\n<link>\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_1c69bc626\r\n</link>\r\n<description>\r\n<p class='text'><p dir=\"ltr\" ><img src=\"http://imglf6.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SaUhPNkI1SnNDdENXWnN2RHJrQ29iODREVmhIYTZQdG9RPT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf6.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SanJ1WU1jYnM4K25mNlovaisyWHFKSnhtWmNjYzR4L2d3PT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1Sc0QxRVUrWVZIdkp4OURXaXNBajY0UTJxdEhuaEtSWWhnPT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1Scm04dGFLbm0wY0p1SEplVjVjaVMxeDRzMmdZR254anBRPT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SbnlRdHBuQWw5Nnd0SUtwVGFQK0E4VkY4dEtPZkdNZTdnPT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /> <img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SblJVVzN3Z00rS3pucEZqQ0tUYnVIOUpOcUhNclVHWHR3PT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /></p></p><br/><br/><a target='_blank' href='http://huoguoshenchu.lofter.com'>LOFTER：火锅深处</a>&nbsp;&nbsp;&nbsp;<a target='_blank' href='http://huoguoshenchu.lofter.com/post/1f0ecc61_1c69bc626'>http://huoguoshenchu.lofter.com/post/1f0ecc61_1c69bc626</a>\r\n</description>\r\n<guid isPermaLink=\"false\">\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_1c69bc626\r\n</guid>\r\n<pubDate>Thu, 21 Mar 2019 12:26:07 +0800</pubDate>\r\n<author>火锅深处</author>\r\n<dc:creator>火锅深处</dc:creator>\r\n</item>\r\n<item>\r\n<title>【单线开源R剧】《献给圣剑的勇者》</title>\r\n<link>\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_12e36a5f9\r\n</link>\r\n<description>\r\n<p class='text'><p><strong>【简介】</strong><br /></p> <p>王国每次遇到灾难时，就会选三名勇者送进北面的森林，由圣剑选出这个国家的救世主。<br />这一次，异国迁居的法师，独眼的战士，勇者后人的少女三个人被选中进入了森林.....</p> <p><strong>【基本信息】</strong></p> <p>制作工具：RPGmakerVX ACE<br /></p> <p>时长：8分钟</p> <p>是否脱离RTP：开源+脱离RTP</p> <p>想学习用RPGmaker的萌新可以拿去研究。</p> <p>大佬如果能接受作者粗糙的画工的话也大力欢迎。</p> <p><strong>【下载信息】</strong></p> <ul> <li><p>下载页：<a rel=\"nofollow\" href=\"https://pan.baidu.com/s/1MbbaUBQVfCI2am4avFQfHw\" target=\"_blank\" >https://pan.baidu.com/s/1MbbaUBQVfCI2am4avFQfHw</a></p></li> </ul> <p>密码：sp67</p> <p><strong>【截图】</strong></p> <p><img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SblNacmtZYjl3T3lUbmlKQ2ZBNXVJVFBNZDVja2Nsek1nPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" smallsrc=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SblNacmtZYjl3T3lUbmlKQ2ZBNXVJVFBNZDVja2Nsek1nPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1Sb1ZkR1ZZRWFCdnd6YTdEMVA3Q3JzY29Ha25CT0w1TE1RPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" smallsrc=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1Sb1ZkR1ZZRWFCdnd6YTdEMVA3Q3JzY29Ha25CT0w1TE1RPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><img src=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SbzFLV21nUURidFpRK0E0d0lvcHZvWHp5eHg3TjVCUGNRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" smallsrc=\"http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9EYnd0Q3BobG1SbzFLV21nUURidFpRK0E0d0lvcHZvWHp5eHg3TjVCUGNRPT0.png?=imageView&amp;thumbnail=164x164&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2\" style=\"max-width:500px;\" /><br /><br /></p> <p><strong>【操作】</strong></p> <p>回车进行阅读<br />ctrl可快进对话<br />游戏默认设定成不可全屏。<br />没有手动存档，进入新场景会自动存档，没有阅读完毕可以在下次开游戏事直接选“继续”（虽然全部剧情也只有8分钟）。</p> <p><strong>【注意事项】</strong></p> <p>是否可商用：不可。</p> <p>是否可转载：可。但需要注明作者（火锅深处）并附上论坛发布页（https://rpg.blue/thread-406274-1-1.html）。</p> <p>是否可二次修改再次发布：不可</p> <p>是否可实况：可（但我不认为效果会好）</p> <p><strong>【制作感想】</strong></p> <p>这个故事会诞生是因为某天早上看到了一些新闻后想“为了拯救国家而献身是怎样的事呢？”，然后推翻了手头一个坑的基本设定，用现成的人设做了这个小故事。</p> <p>P.S.修复了一个主人公比预想中画的帅的BUG。</p> <p><br /></p></p><br/><br/><a target='_blank' href='http://huoguoshenchu.lofter.com'>LOFTER：火锅深处</a>&nbsp;&nbsp;&nbsp;<a target='_blank' href='http://huoguoshenchu.lofter.com/post/1f0ecc61_12e36a5f9'>http://huoguoshenchu.lofter.com/post/1f0ecc61_12e36a5f9</a>\r\n</description>\r\n<guid isPermaLink=\"false\">\r\nhttp://huoguoshenchu.lofter.com/post/1f0ecc61_12e36a5f9\r\n</guid>\r\n<pubDate>Thu, 21 Mar 2019 12:19:52 +0800</pubDate>\r\n<author>火锅深处</author>\r\n<dc:creator>火锅深处</dc:creator>\r\n</item>\r\n</channel>\r\n</rss>",
+      "data": {
+        "title": "LALALALA",
+        "date": "2019-11-15 19:00:50",
+        "tags": [],
+        "published": false,
+        "hideInList": false,
+        "feature": null,
+        "isTop": false
+      },
+      "isEmpty": false,
+      "excerpt": "",
+      "abstract": "",
+      "fileName": "lalalala"
+    },
+    {
+      "content": "\r\n\r\n————————————————————————————————\r\n\r\n>KIROZE是我在网上惯用的一个ID\r\n\r\n本站的名字是 KIROZE STUDIO ，意味大约就是本人的一个工房，什么的，吧。\r\n\r\n>我是一位普通的在读大学生。\r\n\r\n一位业余游戏制作者、业余视频制作者、业余电子音乐制作者、以及板绘爱好者。\r\n\r\n热爱动漫、游戏 —— 以及影视作品，历史，文学，设计，物理等相关内容，\r\n\r\n______________________________________________________________________________\r\n\r\n2019年11月10日，\r\n\r\n因为阅读了一些前端开发相关内容的文章，\r\n\r\n便饶有兴趣地搭建了本站。\r\n\r\n#十分感谢前来访问本站的朋友。\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "data": {
+        "title": "MEEEe",
+        "date": "2019-11-10 21:25:53",
+        "tags": [],
         "published": true,
         "hideInList": true,
         "feature": null,
@@ -14,53 +192,59 @@
       "isEmpty": false,
       "excerpt": "",
       "abstract": "",
-      "fileName": "about"
-    },
-    {
-      "content": "👏  欢迎使用 **Gridea** ！  \n✍️  **Gridea** 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ... \n\n<!-- more -->\n\n[Github](https://github.com/getgridea/gridea)  \n[Gridea 主页](https://gridea.dev/)  \n[示例网站](https://fehey.com/)\n\n## 特性👇\n📝  你可以使用最酷的 **Markdown** 语法，进行快速创作  \n\n🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片  \n\n🏷️  你可以对文章进行标签分组  \n\n📋  你可以自定义菜单，甚至可以创建外部链接菜单  \n\n💻  你可以在 **Windows**，**MacOS** 或 **Linux** 设备上使用此客户端  \n\n🌎  你可以使用 **𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌** 或 **Coding Pages** 向世界展示，未来将支持更多平台  \n\n💬  你可以进行简单的配置，接入 [Gitalk](https://github.com/gitalk/gitalk) 或 [DisqusJS](https://github.com/SukkaW/DisqusJS) 评论系统  \n\n🇬🇧  你可以使用**中文简体**或**英语**  \n\n🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力  \n\n🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步  \n\n🌱 当然 **Gridea** 还很年轻，有很多不足，但请相信，它会不停向前 🏃\n\n未来，它一定会成为你离不开的伙伴\n\n尽情发挥你的才华吧！\n\n😘 Enjoy~\n",
-      "data": {
-        "title": "Hello Gridea",
-        "date": "2018-12-12 00:00:00",
-        "tags": [
-          "Gridea"
-        ],
-        "published": true,
-        "hideInList": false,
-        "feature": "/post-images/hello-gridea.png",
-        "isTop": false
-      },
-      "isEmpty": false,
-      "excerpt": "",
-      "abstract": "👏  欢迎使用 **Gridea** ！  \n✍️  **Gridea** 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ... ",
-      "fileName": "hello-gridea"
+      "fileName": "MEEEe"
     }
   ],
   "tags": [
     {
-      "name": "Gridea",
-      "slug": "Z2w7GfLLG",
+      "index": -1,
+      "name": "VIRTUAL_WHISPER.S",
+      "slug": "zCw23bzz1",
+      "used": true
+    },
+    {
+      "index": 1,
+      "name": "GAN",
+      "slug": "Fr_ih9sib",
+      "used": true
+    },
+    {
+      "index": -1,
+      "name": "创意",
+      "slug": "rdF-HK48-",
+      "used": true
+    },
+    {
+      "index": -1,
+      "name": "储物箱",
+      "slug": "v2LAnKMaa",
       "used": true
     }
   ],
   "menus": [
     {
-      "link": "/",
+      "link": "https://KIROZE.github.io",
       "name": "首页",
       "openType": "Internal"
     },
     {
-      "link": "/archives",
+      "link": "https://KIROZE.github.io/archives",
       "name": "归档",
       "openType": "Internal"
     },
     {
-      "link": "/tags",
+      "link": "https://KIROZE.github.io/tags",
       "name": "标签",
       "openType": "Internal"
     },
     {
-      "link": "/post/about",
+      "link": "https://KIROZE.github.io/post/MEEEe",
       "name": "关于",
+      "openType": "Internal"
+    },
+    {
+      "link": "https://www.lanzous.com/i7dv5qh",
+      "name": "下载",
       "openType": "Internal"
     }
   ]
