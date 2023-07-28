@@ -1,0 +1,18 @@
+<html>
+<head>
+<%- include('./includes/head', { siteTitle: `${tag.name} - ${themeConfig.siteName}` }) %>
+</head>
+<body>
+<body class="mdui-appbar-with-toolbar mdui-theme-primary-blue-grey mdui-theme-accent-blue mdui-theme-layout-dark">
+<%- include('./includes/header') %>
+
+<main class="mdui-container mdui-typo mdui-m-t-2">
+    <%- include('./includes/post-list') %>
+</main>
+
+<%- include('./includes/pagination') %>
+
+<%- include('./includes/footer') %>
+
+</body>
+</html>
