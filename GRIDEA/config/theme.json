@@ -1,0 +1,29 @@
+{
+  "config": {
+    "archivesPageSize": 47,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "",
+    "postPageSize": 10,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "欢迎访问本站，通过本站你可以了解我的动态与作品及其相关信息",
+    "siteName": "KIROZE STUDIO",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "gridea-theme-cplayer-gallery-master"
+  },
+  "customConfig": {
+    "facebook": "",
+    "ga": "",
+    "github": "",
+    "metaDescription": "",
+    "metaKeywords": "",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}
