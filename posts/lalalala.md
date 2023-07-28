@@ -1,11 +1,10 @@
 ---
-title: '测试'
+title: 'LALALALA'
 date: 2019-11-15 19:00:50
 tags: []
-published: true
-hideInList: true
+published: false
+hideInList: false
 feature: 
-isTop: false
 ---
 < /> <b>【截图】</b></p> <p dir="ltr" ><img src="http://imglf6.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvUTRveGs3TEVkTEc0OC9RamZpNUtMWktDWDU2VXRiYVVBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" style="max-width:500px;" /><br /> <img src="http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvYzZ3OFkvWnVMK1RzOVdJWEZHSEY5Y21rQ0dxL1ZJREZRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" style="max-width:500px;" /><br /> <img src="http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvUlFQSWtLeExHWVg3WkFiNGZjMTNzY1NTWDk5eEo4UHp3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" style="max-width:500px;" /></p> <p dir="ltr" ><img src="http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvYkVmRGNCcXRQRlk2TElVVnFCbkIwcHR2VUdGN01KdkpRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" style="max-width:500px;" /><br /> <img src="http://imglf3.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvWVU3RS9wOUZ2NnFLbVJ2U1Y2V3FadnU0cTZZNUNpOFBBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" style="max-width:500px;" /><br /> <img src="http://imglf4.nosdn.127.net/img/RlEvRitleEFGNC9LbEpNNXRRUDNvYW1CeVJxb3dxRU51cGVLelJ5NjJJM2VuaHhYUkJnMUd3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" style="max-width:500px;" /></p> <p dir="ltr" ><b>【操作】</b></p> <p dir="ltr" >回车进行阅读<br /> ctrl可快进对话<br /></p></p><br/><br/><a target='_blank' href='http://huoguoshenchu.lofter.com'>LOFTER：火锅深处</a>&nbsp;&nbsp;&nbsp;<a target='_blank' href='http://huoguoshenchu.lofter.com/post/1f0ecc61_1c699f8e0'>http://huoguoshenchu.lofter.com/post/1f0ecc61_1c699f8e0</a>
 </description>
