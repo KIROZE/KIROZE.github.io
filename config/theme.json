@@ -14,7 +14,19 @@
     "siteName": "Kiroze Gallery",
     "tagPath": "tag",
     "tagUrlFormat": "SHORT_ID",
-    "themeName": "nederburg"
+    "themeName": "gridea-theme-nederburg-master"
   },
-  "customConfig": {}
+  "customConfig": {
+    "envelope": "",
+    "facebook": "",
+    "ga": "",
+    "github": "",
+    "qq": "",
+    "rss": "",
+    "twitter": "",
+    "userdesc": "",
+    "username": "KELIN",
+    "weibo": "",
+    "zhihu": ""
+  }
 }
