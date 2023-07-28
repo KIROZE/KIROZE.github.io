@@ -1,0 +1,20 @@
+{
+  "config": {
+    "archivesPageSize": 100,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "",
+    "postPageSize": 50,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "",
+    "siteName": "Kiroze Gallery",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "nederburg"
+  },
+  "customConfig": {}
+}
