@@ -1,17 +1,17 @@
 {
   "config": {
-    "archivesPageSize": 47,
+    "archivesPageSize": 100,
     "archivesPath": "archives",
     "dateFormat": "YYYY-MM-DD",
     "feedCount": 10,
     "feedFullText": true,
     "footerInfo": "",
-    "postPageSize": 10,
+    "postPageSize": 50,
     "postPath": "post",
     "postUrlFormat": "SLUG",
     "showFeatureImage": true,
     "siteDescription": "",
-    "siteName": "KIROZE STUDIO",
+    "siteName": "Kiroze Gallery",
     "tagPath": "tag",
     "tagUrlFormat": "SHORT_ID",
     "themeName": "gridea-theme-nederburg-master"
@@ -25,7 +25,7 @@
     "rss": "",
     "twitter": "",
     "userdesc": "",
-    "username": "KIROZE",
+    "username": "KELIN",
     "weibo": "",
     "zhihu": ""
   }
