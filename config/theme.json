@@ -6,27 +6,15 @@
     "feedCount": 10,
     "feedFullText": true,
     "footerInfo": "",
-    "postPageSize": 10,
+    "postPageSize": 5,
     "postPath": "post",
     "postUrlFormat": "SLUG",
     "showFeatureImage": true,
     "siteDescription": "",
-    "siteName": "KIROZE STUDIO",
+    "siteName": "KIROZE GALLERY",
     "tagPath": "tag",
     "tagUrlFormat": "SHORT_ID",
-    "themeName": "gridea-theme-nederburg-master"
+    "themeName": "nederburg"
   },
-  "customConfig": {
-    "envelope": "",
-    "facebook": "",
-    "ga": "",
-    "github": "",
-    "qq": "",
-    "rss": "",
-    "twitter": "",
-    "userdesc": "",
-    "username": "KIROZE",
-    "weibo": "",
-    "zhihu": ""
-  }
+  "customConfig": {}
 }
